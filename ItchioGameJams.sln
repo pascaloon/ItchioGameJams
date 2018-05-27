@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItchioGameJams", "ItchioGameJams\ItchioGameJams.csproj", "{4A3185CE-0BBB-4714-87B5-5EB3FF460FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3185CE-0BBB-4714-87B5-5EB3FF460FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3185CE-0BBB-4714-87B5-5EB3FF460FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3185CE-0BBB-4714-87B5-5EB3FF460FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3185CE-0BBB-4714-87B5-5EB3FF460FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {026FB09E-9F55-4EE2-B3B0-9037EC675979}
+	EndGlobalSection
+EndGlobal
